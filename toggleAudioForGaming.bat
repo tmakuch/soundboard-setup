@@ -1,0 +1,1 @@
+powershell ./toggleAudioForGaming.ps1
